@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PopularMovies1</string>
+    <string name="tv_error_message">Network Problem Accured! Please check </string>
+    <string name="button_retry"> Retry </string>
+    <string name="missing_key">Missing Api Key, Please use you API key </string>
+
+
+    <string name="sort_by">Sort By</string>
+    <string name="popularity">Popularity</string>
+    <string name="top_rated">Top Rated</string>
+
+    <string name="poster">Image Poster</string>
+    <string name="title">Title: </string>
+    <string name="synopsis">Synopsis: </string>
+    <string name="ratings">Rating: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="image_poster">Image Poster</string>
+</resources>
