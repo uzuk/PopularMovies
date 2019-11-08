@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class MovieNetworkUtilities {
 
-    public static final String API_KEY = "b8d758b8afc922c290f0860cefab9ce6";
+    public static final String API_KEY = "put_your_api_key_here";
 
     private static final String LOG_TAG = MovieNetworkUtilities.class.getSimpleName();
     private static final String MOVIE_QUERY_API = "api_key";
